@@ -33,7 +33,7 @@ int main(){
 	cout << "(b + a)/c - (d + a): " << (b + a)/c - (d + a) << endl;	
 	cout << "(cos(d) + sin(c)) * (cos(b) - sin(a)): " << (cos(d) + sin(c)) * (cos(b) - sin(a)) << endl;
 	
-	cout << "============================================================================ "<< endl;
+	cout << "=============================================================================== "<< endl;
 	cout << endl;
 	
 	cout << "Informe mais 3 valores para mais calculos: " << endl;
@@ -50,7 +50,7 @@ int main(){
 	cout << "área de um triângulo de base x e altura y: " << (y * z) / 2 << endl;
 	cout << "hipotenusa de um triângulo retângulo, cujos lados conhecidos são y e z: " << sqrt(pow(y,2) + pow(z,2)) << endl;
 		
-	cout << "============================================================================ "<< endl;
+	cout << "=============================================================================== "<< endl;
 	cout << endl;
 	
 	cout << "Calculo de raizes de equação do 2 grau" << endl;
@@ -60,8 +60,7 @@ int main(){
 	float delta, x1,x2;
 	 
 	cout << "Entre com os coeficientes da equaçao: " << endl;
-	cout << endl;
-
+	
 	cin >> A >> B >> C;
 	
 	delta = (pow(B,2)) - (4*A*C);
