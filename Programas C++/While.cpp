@@ -18,7 +18,7 @@ int main(){
 		
 	while(cont <= 5){
 		
-		cout << "Informe o sexo da pessoa: [1 p/ Masculino & 2 p/ Feminino]...e informe a idade: " << endl;
+		cout << "Informe o sexo da pessoa: [1 p/ Masculino | 2 p/ Feminino] " << endl;
 		cin >> sexo;
 		
 		cout << "Informe a idade:  " << endl;
