@@ -1,3 +1,8 @@
+/*
+Escreva um programa que leia um número qualquer e mostre a tabuada desse
+número, usando a estrutura “para”.
+*/
+
 #include <iostream>
 using namespace std;
 int main(){
